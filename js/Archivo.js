@@ -1,3 +1,2 @@
-// JavaScript Document
-console.log("Hola, este es un mensaje");
-alert("Prueba");
+function pruebaExterna(){
+	alert('al actualizar Un mensaje de prueba desde un archivo externo');}
